@@ -6,7 +6,7 @@
 int main(void) {
 
     for(;;) {
-       
+		__delay_ms(100);	
     }
 }
 
